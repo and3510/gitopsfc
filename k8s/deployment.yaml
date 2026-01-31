@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: goserver
-        image: and3510/goserver:latest
+        image: goserver
         ports:
         - containerPort: 8080
