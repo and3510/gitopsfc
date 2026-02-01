@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: and3510/gitopsfc
-  newTag: fd864fdfb7b0fb75cc8778d79ad6162cd90528de
+  newTag: 333dfbbb9b73c97c51f9b923810183fa91d3eed3
